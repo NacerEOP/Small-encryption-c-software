@@ -1,3 +1,6 @@
+
+<img width="737" height="300" alt="image" src="https://github.com/user-attachments/assets/92fa85de-47fa-4089-b0b7-9be157c9d5f2" />
+
 C++ Text File Encryption System
 
 Description:
